@@ -1,0 +1,33 @@
+[[365  16]
+ [ 38  29]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.96      0.93       381
+           1       0.64      0.43      0.52        67
+
+    accuracy                           0.88       448
+   macro avg       0.78      0.70      0.72       448
+weighted avg       0.87      0.88      0.87       448
+
+[[356  13]
+ [ 46  33]]
+              precision    recall  f1-score   support
+
+           0       0.89      0.96      0.92       369
+           1       0.72      0.42      0.53        79
+
+    accuracy                           0.87       448
+   macro avg       0.80      0.69      0.73       448
+weighted avg       0.86      0.87      0.85       448
+
+Best fit:
+[[364  18]
+ [ 36  30]]
+              precision    recall  f1-score   support
+
+           0       0.91      0.95      0.93       382
+           1       0.62      0.45      0.53        66
+
+    accuracy                           0.88       448
+   macro avg       0.77      0.70      0.73       448
+weighted avg       0.87      0.88      0.87       448

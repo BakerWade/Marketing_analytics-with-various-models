@@ -1,0 +1,13 @@
+average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+           0       0.85      1.00      0.92       569
+           1       0.00      0.00      0.00       103
+
+    accuracy                           0.85       672
+   macro avg       0.42      0.50      0.46       672
+weighted avg       0.72      0.85      0.78       672
+
+R2_score: -0.18101933216168709
+[[569   0]
+ [103   0]]
